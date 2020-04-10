@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### run json server
+Download and run server: (https://github.com/typicode/json-server)
+open db folder and run db.json on port 3002
