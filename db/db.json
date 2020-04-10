@@ -1,0 +1,46 @@
+{
+  "bags": [
+    {
+      "name": "Зеленчукова Чанта",
+      "image": "https://cdn.mos.cms.futurecdn.net/BdFw3fQfAcVKkHgsyu4JCN.jpg",
+      "price": "123",
+      "description": "Заредена с продукти, готова за доставка.",
+      "products": [
+        "tomatoes",
+        "cucambers"
+      ],
+      "id": 1
+    },
+    {
+      "name": "Вегетарианска ",
+      "image": "https://shopgreen.in/wp-content/uploads/green-bag-regular-size-with-vegetables-eco-friendly-cotton-canvas-cloth-grocery-bag-vegetable-bag.jpg",
+      "price": "48",
+      "description": "Разнообразете вашето меню с тази уникална по рода си чанта. Избрани продукти за всеки.",
+      "products": [
+        "potatoes",
+        "grape",
+        "tomatoes",
+        "cucambers"
+      ],
+      "id": 2
+    },
+    {
+      "name": "Чанта с Домати",
+      "image": "https://image.freepik.com/free-photo/vegetables-flying-recycled-paper-bag_75891-244.jpg",
+      "price": "10",
+      "description": "Пресни и вкуси домати директно от градината.",
+      "products": [
+        "tomatoes"
+      ],
+      "id": 3
+    },
+    {
+      "name": "Чанта с Праз",
+      "image": "https://drf7w0l2eu3s1.cloudfront.net/productImages/_article/TP276_03.png?mtime=20191220101317",
+      "price": "12",
+      "description": "Няма нищо",
+      "products": [],
+      "id": 4
+    }
+  ]
+}
